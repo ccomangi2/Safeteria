@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/homeItem"
+        android:icon="@drawable/home_on_off"
+        android:enabled="true"
+        android:checked="true"
+        android:title="홈" />
+    <item
+        android:id="@+id/mapItem"
+        android:icon="@drawable/search_on_off"
+        android:title="가게찾기" />
+
+    <item
+        android:id="@+id/profileItem"
+        android:icon="@drawable/profile_on_off"
+        android:title="마이페이지" />
+</menu>

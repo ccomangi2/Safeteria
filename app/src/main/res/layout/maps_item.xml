@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/layout_custom"
+    app:cardBackgroundColor="#FFFFFF">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profile_img"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/profile_test" />
+
+    <TextView
+        android:id="@+id/user_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="15dp"
+        android:text="김미림"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/write_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="35dp"
+        android:text="2020.09.26"
+        android:textColor="#999999"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/write"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:text="오직 실현에 어디 천자만홍이 이것을 꽃이 봄바람이 품으며, 것이다. 따뜻한 우리의 사라지지.."
+        android:textColor="#000000" />
+
+    <ImageView
+        android:id="@+id/review_img"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_gravity="right"
+        app:srcCompat="@drawable/service_custom" />
+
+</androidx.cardview.widget.CardView>

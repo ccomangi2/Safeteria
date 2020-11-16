@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1023564348064",
+    "firebase_url": "https://safeteria-1ffcb.firebaseio.com",
+    "project_id": "safeteria-1ffcb",
+    "storage_bucket": "safeteria-1ffcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023564348064:android:ea097f3b76852b533ea7c5",
+        "android_client_info": {
+          "package_name": "com.this25.safeteria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023564348064-u57une3d6b6v9hbeq0rgtdk3t8ksq3fn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.this25.safeteria",
+            "certificate_hash": "19cc3693b88e12a8c5b3e6380178e82bcb5440af"
+          }
+        },
+        {
+          "client_id": "1023564348064-830t84cdg7qvum7q84c5fautrf9tlibe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHfPfn5lStXq7i5wBKejE-Ce_3RuqG9Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023564348064-830t84cdg7qvum7q84c5fautrf9tlibe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Safeteria</string>
+    <string name="realtimeshop">2,349</string>
+
+    <string name="name">김미림</string>
+    <string name="space">서울특별시 강동구</string>
+    <string name="space_name">미림카페 신림점</string>
+    <string name="manager_post_review">와, 정말 편해요</string>
+    <string name="user_post_review">우와 이거 정말 편해용!!</string>
+
+    <string name="version">3.1.2</string>
+
+    <string name="facebook_app_id">1467576090114709</string>
+
+    <string-array name="spinner_do">
+        <item>서울</item>
+        <item>인천</item>
+        <item>광주</item>
+        <item>대구</item>
+        <item>울산</item>
+        <item>대전</item>
+    </string-array>
+    <string-array name="spinner_do_seoul">
+        <item>강남구</item>
+        <item>강동구</item>
+        <item>강북구</item>
+        <item>강서구</item>
+        <item>관악구</item>
+    </string-array>
+    <string-array name="spinner_do_incheon">
+        <item>강화군</item>
+        <item>계양구</item>
+        <item>남구</item>
+        <item>남동구</item>
+        <item>동구</item>
+        <item>부평구</item>
+    </string-array>
+    <string-array name="spinner_do_gwangju">
+        <item>광산구</item>
+        <item>서구</item>
+        <item>북구</item>
+        <item>동구</item>
+        <item>남구</item>
+    </string-array>
+    <string-array name="spinner_do_daegu">
+        <item>달성군</item>
+        <item>달서구</item>
+        <item>서구</item>
+        <item>북구</item>
+        <item>중구</item>
+        <item>남구</item>
+        <item>수성구</item>
+        <item>동구</item>
+    </string-array>
+    <string-array name="spinner_do_ulsan">
+        <item>울주군</item>
+        <item>중구</item>
+        <item>남구</item>
+        <item>동구</item>
+        <item>북구</item>
+    </string-array>
+    <string-array name="spinner_do_daejeon">
+        <item>유성구</item>
+        <item>대덕구</item>
+        <item>서구</item>
+        <item>중구</item>
+        <item>동구</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
